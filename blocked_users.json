@@ -2,7 +2,7 @@
   "features": {
     "dashboard": { "locked": false, "label": "الرئيسية", "codes": [], "blocked_users": [] },
     "schedule": { "locked": false, "label": "الجدول الدراسي", "codes": [], "blocked_users": [] },
-    "lectures": { "locked": false, "label": "المحاضرات", "codes": [], "blocked_users": [] },
+    "lectures": { "locked": false, "label": "المحاضرات", "codes": [], "wgs@sgzr.com": [] },
     "grades": { "locked": false, "label": "سجل النتائج", "codes": [], "blocked_users": [] },
     "attendance": { "locked": false, "label": "سجل الغيابات", "codes": [], "blocked_users": [] },
     "notes": { "locked": false, "label": "التقارير والملاحظات", "codes": [], "blocked_users": [] },
